@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73240a08-a901-4c93-8ded-7ccb53435ec5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CH2-1.coffee" afterPath="$PROJECT_DIR$/CH2-1.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoffeeScript_First_Guide.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/CH2-1.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365405117815" ignored="false" />
-    <file path="/Dummy.txt" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365404099381" ignored="false" />
+    <file path="/Dummy.txt" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365579692229" ignored="false" />
     <file path="/CH2-2.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365406632702" ignored="false" />
     <file path="/CH2-3.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365407306857" ignored="false" />
     <file path="/CH2-5.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365407534118" ignored="false" />
@@ -19,6 +17,12 @@
     <file path="/CH2-9.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365416397998" ignored="false" />
     <file path="/CH2-10.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365416954252" ignored="false" />
     <file path="/CH2-11.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365417060512" ignored="false" />
+    <file path="/CH3-4.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365581516391" ignored="false" />
+    <file path="/CH3-5.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365585178474" ignored="false" />
+    <file path="/CH3-6.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365588200296" ignored="false" />
+    <file path="/CH3-7.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365589194900" ignored="false" />
+    <file path="/CH3-8.coffee" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365589622633" ignored="false" />
+    <file path="/Cakefile" changelist="73240a08-a901-4c93-8ded-7ccb53435ec5" time="1365590818540" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +92,17 @@
     <favorites_list name="CoffeeScript_First_Guide" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Cakefile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.32">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -116,12 +130,18 @@
         <option value="$PROJECT_DIR$/CH2-9.coffee" />
         <option value="$PROJECT_DIR$/CH2-10.coffee" />
         <option value="$PROJECT_DIR$/CH2-11.coffee" />
+        <option value="$PROJECT_DIR$/CH3-4.coffee" />
+        <option value="$PROJECT_DIR$/CH3-5.coffee" />
+        <option value="$PROJECT_DIR$/CH3-6.coffee" />
+        <option value="$PROJECT_DIR$/CH3-7.coffee" />
+        <option value="$PROJECT_DIR$/CH3-8.coffee" />
+        <option value="$PROJECT_DIR$/Cakefile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="40" />
+    <option name="x" value="46" />
+    <option name="y" value="49" />
     <option name="width" value="1306" />
     <option name="height" value="829" />
   </component>
@@ -153,7 +173,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,6 +193,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -185,7 +205,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="appearance" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/coffee-script/bin/coffee" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -197,8 +217,28 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration default="false" name="CH2-1.coffee" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="CH2-1.coffee" application-parameters="CH2-1.coffee" working-dir="$PROJECT_DIR$" coffeescript-path="/usr/local/Cellar/node/0.8.16/lib/node_modules/coffee-script/bin/coffee" coffeescript-run="true">
+  <component name="RunManager" selected="Node.js.Unnamed">
+    <configuration default="false" name="CH3-5.coffee" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="CH3-5.coffee" working-dir="$PROJECT_DIR$" coffeescript-path="C:\Users\ishitsuka\AppData\Roaming\npm\node_modules\coffee-script\bin\coffee" coffeescript-run="true">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CH3-6.coffee" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="CH3-6.coffee" working-dir="$PROJECT_DIR$" coffeescript-path="C:\Users\ishitsuka\AppData\Roaming\npm\node_modules\coffee-script\bin\coffee" coffeescript-run="true">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CH3-7.coffee" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="CH3-7.coffee" working-dir="$PROJECT_DIR$" coffeescript-path="C:\Users\ishitsuka\AppData\Roaming\npm\node_modules\coffee-script\bin\coffee" coffeescript-run="true">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CH3-8.coffee" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="CH3-8.coffee" working-dir="$PROJECT_DIR$" coffeescript-path="C:\Users\ishitsuka\AppData\Roaming\npm\node_modules\coffee-script\bin\coffee" coffeescript-run="true">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Cakefile" working-dir="$PROJECT_DIR$" coffeescript-run="true">
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
@@ -258,6 +298,9 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -294,7 +337,22 @@
       <patterns />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.CH3-5.coffee" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.CH3-6.coffee" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.CH3-7.coffee" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.CH3-8.coffee" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.CH3-8.coffee" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.CH3-7.coffee" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.CH3-6.coffee" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.CH3-5.coffee" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -347,34 +405,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="40" width="1306" height="829" extended-state="0" />
-    <editor active="false" />
+    <frame x="46" y="49" width="1306" height="829" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.67105263" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32589287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32589287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.67105263" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32589287" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.67105263" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.67105263" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67410713" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22990353" sideWeight="0.67113096" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -443,86 +501,114 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CH2-1.coffee">
+    <entry file="file://$PROJECT_DIR$/CH3-4.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-1.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-3.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="49" selection-end="49" vertical-scroll-proportion="0.25123152">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-5.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="167" selection-end="167" vertical-scroll-proportion="0.676815">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-6.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.5971897">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-7.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="28" selection-end="28" vertical-scroll-proportion="0.15925059">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-8.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="0" selection-start="950" selection-end="950" vertical-scroll-proportion="3.145199">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-9.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="24" selection-start="1754" selection-end="1754" vertical-scroll-proportion="-0.114754096">
+        <state line="44" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.88">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CH2-10.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.87119436">
+        <state line="25" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-11.coffee">
+    <entry file="file://$PROJECT_DIR$/CH2-9.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.39812645">
+        <state line="117" column="24" selection-start="1754" selection-end="1754" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CH2-1.coffee">
+    <entry file="file://$PROJECT_DIR$/CH2-8.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="26" selection-start="389" selection-end="389" vertical-scroll-proportion="1.5128806">
+        <state line="91" column="0" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH2-7.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH2-6.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH2-5.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="9" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH2-3.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CH2-2.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="170" selection-end="170" vertical-scroll-proportion="-1.030445">
+        <state line="18" column="24" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH2-1.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="26" selection-start="389" selection-end="389" vertical-scroll-proportion="0.20049505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH2-11.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="73" selection-end="73" vertical-scroll-proportion="0.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH3-7.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH3-8.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="3" selection-start="183" selection-end="183" vertical-scroll-proportion="0.56">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH3-6.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="31" selection-start="737" selection-end="737" vertical-scroll-proportion="2.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH3-5.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="7" selection-start="618" selection-end="618" vertical-scroll-proportion="0.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.32">
           <folding />
         </state>
       </provider>
